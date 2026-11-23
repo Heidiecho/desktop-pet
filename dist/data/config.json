@@ -1,0 +1,12 @@
+{
+ "scale": 0.121,
+ "pos_x": 675,
+ "pos_y": 247,
+ "current_image": "D:\\Doubao\\desktop-pet-v6\\desktop-pet\\dist\\pets\\cat3.png",
+ "last_image_date": "2026-11-23",
+ "stand_accum_sec": 2847,
+ "status": "focusing",
+ "relax_end_ts": null,
+ "last_eye_ts": "2026-11-23T16:37:02",
+ "last_rest_date": ""
+}

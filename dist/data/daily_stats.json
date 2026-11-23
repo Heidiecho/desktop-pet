@@ -1,0 +1,22 @@
+{
+ "2026-10-18": {
+  "focus_sec": 2812,
+  "stand": 0,
+  "relax_cnt": 4,
+  "relax_sec": 1200,
+  "eye": 4,
+  "todo_created": 5,
+  "todo_done": 0,
+  "rest": 0
+ },
+ "2026-11-23": {
+  "focus_sec": 35,
+  "stand": 0,
+  "relax_cnt": 0,
+  "relax_sec": 0,
+  "eye": 1,
+  "todo_created": 0,
+  "todo_done": 4,
+  "rest": 0
+ }
+}
